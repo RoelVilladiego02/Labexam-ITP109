@@ -1,0 +1,8 @@
+{
+    "java.format.settings.url": "file:///path/to/your/eclipse-formatter.xml",
+    "java.format.settings.profile": "MyProfile",
+    "java.checkstyle.configuration": "file:///path/to/your/checkstyle.xml",
+    "java.import.gradle.enabled": true,
+    "java.import.maven.enabled": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LabActivity1",
+            "request": "launch",
+            "mainClass": "src.LabActivity1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabActivity2",
+            "request": "launch",
+            "mainClass": "src.LabActivity2"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabActivity3",
+            "request": "launch",
+            "mainClass": "src.LabActivity3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabActivity4",
+            "request": "launch",
+            "mainClass": "src.LabActivity4"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabActivity5",
+            "request": "launch",
+            "mainClass": "src.LabActivity5"
+        }
+    ]
+}
